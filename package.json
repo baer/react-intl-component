@@ -1,17 +1,17 @@
 {
-  "name": "formidable-react-component-boilerplate",
+  "name": "greeting",
   "version": "0.1.0",
-  "description": "react component boilerplate",
+  "description": "Greeting Component",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/FormidableLabs/formidable-react-component-boilerplate.git"
+    "url": "https://github.com/baer/react-intl-component.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FormidableLabs/formidable-react-component-boilerplate/issues"
+    "url": "https://github.com/baer/react-intl-component/issues"
   },
-  "homepage": "https://github.com/FormidableLabs/formidable-react-component-boilerplate",
+  "homepage": "https://github.com/baer/react-intl-component",
   "scripts": {
     "postinstall": "builder run npm:postinstall",
     "preversion": "builder run npm:preversion",
