@@ -57,7 +57,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	"use strict";
 	
 	module.exports = {
-	  GreetingComponent: __webpack_require__(1)
+	  Greeting: __webpack_require__(1)
 	};
 
 /***/ },
