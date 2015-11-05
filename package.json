@@ -1,6 +1,6 @@
 {
   "name": "greeting",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Greeting Component",
   "main": "lib/index.js",
   "repository": {
@@ -23,13 +23,8 @@
     "builder-react-component": "0.0.3"
   },
   "devDependencies": {
-    "chai": "^3.2.0",
-    "mocha": "^2.3.3",
     "react": "^0.14.0",
-    "react-addons-test-utils": "^0.14.0",
     "react-dom": "^0.14.0",
-    "react-intl": "^2.0.0-beta-1",
-    "sinon": "^1.17.2",
-    "sinon-chai": "^2.8.0"
+    "react-intl": "^2.0.0-beta-1"
   }
 }
