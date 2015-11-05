@@ -28,6 +28,7 @@
     "react": "^0.14.0",
     "react-addons-test-utils": "^0.14.0",
     "react-dom": "^0.14.0",
+    "react-intl": "^2.0.0-beta-1",
     "sinon": "^1.17.2",
     "sinon-chai": "^2.8.0"
   }
