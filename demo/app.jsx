@@ -1,14 +1,20 @@
 /*global document:false*/
+import {IntlProvider} from 'react-intl';
 import React from "react";
 import ReactDOM from "react-dom";
+
 import {GreetingComponent} from "../src/index";
+
+const messages = {
+  "greeting": "Override"
+}
 
 class App extends React.Component {
   render() {
     return (
-      <div className="demo">
+      <IntlProvider locale="en" messages={messages}>
         <GreetingComponent />
-      </div>
+      </IntlProvider>
     );
   }
 }
